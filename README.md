@@ -6,13 +6,13 @@
 
 <img alt="C++" src ="https://img.shields.io/badge/C++-#00599C-blue"/>
 
-<img alt="C++" src ="https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=CBS&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
 
 https://img.shields.io/badge/C++-C++-white
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=00599C">
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Python&logoColor=white">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
