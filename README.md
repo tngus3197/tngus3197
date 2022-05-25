@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=100&fontAlign=70&fontAlignY=40)
-![깃허브 자료](https://user-images.githubusercontent.com/102011937/170250985-3d602498-ed67-43b9-aeb6-ff85d8588337.gif)
+
 <div align="center">
-  
+  ![깃허브 자료](https://user-images.githubusercontent.com/102011937/170250985-3d602498-ed67-43b9-aeb6-ff85d8588337.gif)
 ## _Hello, my name is Suhyeon Kim and here is my Github profil._
 
   ### My email is 3197tngus@naver.com
