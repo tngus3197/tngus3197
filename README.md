@@ -7,7 +7,7 @@
 <img alt="C++" src ="https://img.shields.io/badge/C++-#00599C-blue"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
 https://img.shields.io/badge/C++-C++-white
-<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=#00599C C++&logoColor=black">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=#00599C C++&logoColor=black">
 
 <!--
 **tngus3197/tngus3197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
