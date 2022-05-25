@@ -3,6 +3,7 @@
 
 <div align="center">
   ##_Hello, My name is Suhyeon Kim and here is my Github profil_
+  </div>
 <!--
 **tngus3197/tngus3197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
