@@ -6,7 +6,7 @@
 
 <img alt="C++" src ="https://img.shields.io/badge/C++-#00599C-blue"/>
 
-<img alt="C++" src ="https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=CBS&logoColor=white"/>
 
 https://img.shields.io/badge/C++-C++-white
 
