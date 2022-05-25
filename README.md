@@ -1,6 +1,7 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=100&fontAlign=70&fontAlignY=40)
 
-<div align="center">
+
   내용물
 
 <!--
