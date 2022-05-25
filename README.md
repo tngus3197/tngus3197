@@ -3,8 +3,7 @@
 
 
 # _hello, my name is Suhyeon kim and here is my Github profil_
-
-https://img.shields.io/badge/C++-#00599C-blue
+<img alt="C++" src ="https://img.shields.io/badge/C++-#00599C-blue"/>
 <!--
 **tngus3197/tngus3197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
