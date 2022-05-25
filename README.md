@@ -10,7 +10,7 @@
 
 https://img.shields.io/badge/C++-C++-white
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=#00599C C++&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=00599C C++&logoColor=white">
 
 
 
