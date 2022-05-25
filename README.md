@@ -3,7 +3,11 @@
 
 
 # _hello, my name is Suhyeon kim and here is my Github profil_
+
 <img alt="C++" src ="https://img.shields.io/badge/C++-#00599C-blue"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=C++&logoColor=White"/>
+
+출처: https://kimasill.tistory.com/entry/Github-깃허브-프로필-꾸미기 [널디 코드 일기:티스토리]
 <!--
 **tngus3197/tngus3197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
