@@ -3,16 +3,15 @@
 
 <div align="center">
   
-  ![깃허브 자료](https://user-images.githubusercontent.com/102011937/170250985-3d602498-ed67-43b9-aeb6-ff85d8588337.gif)
-  
-## _Hello, my name is Suhyeon Kim and here is my Github profil._
+# _Hello, my name is Suhyeon Kim and here is my Github profil._
 
-  ### My email is 3197tngus@naver.com
+  ## My email is 3197tngus@naver.com
   
   <br>
   <br>
   
   안녕하세요 게임 개발자를 꿈꾸는 대학생 김수현입니다.
+  
   
   <br>
   <br>
