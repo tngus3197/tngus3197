@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=100&fontAlign=70&fontAlignY=40)
 
 <div align="center">
-  ##_Hello, My name is Suhyeon Kim and here is my Github profil_
-  </div>
+_hello, my name is Suhyeon kim and here is my Github profil_<fontSize=10>
+</div>
 <!--
 **tngus3197/tngus3197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
