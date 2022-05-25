@@ -6,11 +6,15 @@
 ## _Hello, my name is Suhyeon Kim and here is my Github profil._
 
   ### My email is 3197tngus@naver.com
+  
   <br>
   <br>
+  
   안녕하세요 게임 개발자를 꿈꾸는 대학생 김수현입니다.
+  
   <br>
   <br>
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftngus3197%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ### im learning
