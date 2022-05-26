@@ -22,6 +22,7 @@
   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=black"> 
 
+  [![tngus3197's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tngus3197&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tngus3197)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tngus3197&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tngus3197)](https://github.com/ryo-ma/github-profile-trophy)
 
