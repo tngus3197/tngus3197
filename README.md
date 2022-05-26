@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=100&fontAlign=70&fontAlignY=40)
 
 <div align="center">
@@ -10,8 +9,7 @@
   
   <br>
 
-  안녕하세요 게임 개발자를 꿈꾸는 대학생 김수현입니다.
-  <br>
+  안녕하세요 게임 개발자를 꿈꾸는 대학생 김수현입니다.  
   아직은 많이 부족하지만 열심히 배우고 있습니다.
   
   <br>
