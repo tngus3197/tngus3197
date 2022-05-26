@@ -8,8 +8,8 @@
   <a href="mailto:kimsuhun3197@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
   <br>
-
-  :turtle:안녕하세요 게임 개발자를 꿈꾸는 대학생 김수현입니다.:turtle:  
+  
+:snail:안녕하세요 게임 개발자를 꿈꾸는 대학생 김수현입니다.:snail:
   아직은 많이 부족하지만 열심히 배우고 있습니다.  
   
   
