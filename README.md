@@ -4,7 +4,7 @@
   
 # _Hello, my name is Suhyeon Kim and here is my Github profil._
 
- :email:you can contect me to:email:  
+ :e-mail:you can contect me to:e-mail:  
   <a href="mailto:kimsuhun3197@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
   <br>
