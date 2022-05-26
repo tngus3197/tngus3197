@@ -5,7 +5,7 @@
   
 # _Hello, my name is Suhyeon Kim and here is my Github profil._
 
-  ## My phone number is 010-7183-3193 and you can contect me to
+ you can contect me to
   <a href="mailto:kimsuhun3197@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
   <br>
