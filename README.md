@@ -11,9 +11,9 @@
   
 :snail:안녕하세요 게임 개발자를 꿈꾸는 대학생 김수현입니다.:snail:  
   아직은 많이 부족하지만 열심히 배우고 있습니다.  
-```c++
-  #include<iostream>
-  ```
+
+  #include <iostream>
+  
   
   <br>
   <br>
