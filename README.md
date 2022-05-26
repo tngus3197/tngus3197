@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=100&fontAlign=70&fontAlignY=40)
 
-![sunny outside](https://user-images.githubusercontent.com/102011937/170429339-bd4f4ea7-e921-4763-b58d-84becd93ee34.jpg)
-
 <div align="center">
   
 # _Hello, my name is Suhyeon Kim and here is my Github profil._
